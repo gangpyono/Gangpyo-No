@@ -2,7 +2,7 @@
   
 
 ![header](https://capsule-render.vercel.app/api?type=waving&height=250&text=GangpyoNo&fontSize=70)
-<!--   🇰🇷(Native) -->
+
   <h2>Welcome👋</<h2>
     
   <h3>🛠Technology Stack🛠</h3>
