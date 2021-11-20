@@ -15,7 +15,7 @@
  
   <h3> My stats😁 </h3> 
   
-![sungminleeme GitHub stats](https://github-readme-stats.vercel.app/api?username=gangpyono&show_icons=true)
+![gangpyono GitHub stats](https://github-readme-stats.vercel.app/api?username=gangpyono&show_icons=true)
   
   
   
