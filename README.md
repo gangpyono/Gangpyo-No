@@ -13,11 +13,11 @@
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/>
 <img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=Redux&logoColor=white"/>
  
-  <h3> My stats😁 </h3> 
+<!--   <h3> My stats😁 </h3> 
   
 ![gangpyono GitHub stats](https://github-readme-stats.vercel.app/api?username=gangpyono&show_icons=true)
   
-  
+   -->
   
   <h3> contact 👨‍💻</h3>
     
