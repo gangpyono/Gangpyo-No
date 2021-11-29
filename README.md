@@ -1,7 +1,7 @@
 <div align = 'center'>
   
 
-![header](https://capsule-render.vercel.app/api?type=waving&height=250&text=GangpyoNo&fontSize=70)
+<!-- ![header](https://capsule-render.vercel.app/api?type=waving&height=250&text=GangpyoNo&fontSize=70) -->
 
   <h2>Hi,there! 👋</<h2>
     
